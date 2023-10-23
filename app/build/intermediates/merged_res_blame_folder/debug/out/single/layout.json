@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/add_food_to_main.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/add_food_to_main.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/item_food.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/item_food.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/activity_profile.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/dialog_add_food.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/dialog_add_food.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/activity_load.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/activity_load.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/product_list.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/product_list.xml"
+    },
+    {
+        "merged": "com.eatingdiary.zwjnevw.app-mergeDebugResources-71:/layout/food.xml",
+        "source": "com.eatingdiary.zwjnevw.app-main-74:/layout/food.xml"
+    }
+]

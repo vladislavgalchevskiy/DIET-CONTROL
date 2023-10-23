@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.eatingdiary.zwjnevw.app-mergeDebugResources-70:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/biceslavsosa/.gradle/caches/transforms-3/16763fe429137376129ea97f9c32e076/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
